@@ -1,4 +1,4 @@
-![Logo UNAHUR](./Mora.png)
+![Logo UNAHUR](./Mora.jpg)
 
 # Programación con objetos I
 ## Presentación Personal
