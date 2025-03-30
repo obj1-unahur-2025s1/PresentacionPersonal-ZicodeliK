@@ -9,5 +9,6 @@
 
 
 ### Otra Información
-- Este es mi primer contacto con github
+- Tengo 21 años, hice el secundario tecnico y me egrese como tecnico informatico.
+Tengo como objetivo este año poder conseguir un trabajo que se relacione con mis estudios.
 - Tengo una perra que se llama Mora
